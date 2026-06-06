@@ -1,0 +1,6 @@
+{
+  "name": "eFootball Account Marketplace",
+  "description": "A secure Escrow-based trading platform for eFootball (PES) game accounts with Chargily Pay, customizable seller portfolios, and real-time transaction tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
